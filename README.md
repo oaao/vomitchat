@@ -1,2 +1,3 @@
 # vomitchat
-chat app redux; introduction to Vue
+
+A Vue-based chat app which employs CometChat and its JavaScript SDK.
